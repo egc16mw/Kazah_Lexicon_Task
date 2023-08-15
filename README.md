@@ -4,9 +4,11 @@ Lexicon Generation for Kazakh Language Using Python
  
 This task involves generating a lexicon for the Kazakh language based on a corpus of tokenized and lemmatized sentences. Each token in the corpus has been annotated with part-of-speech tags and morphological features. The objective is to process this input data using Python, specifically leveraging data classes provided by Pydantic, to produce a JSON file containing information for each lemma. This information includes:
 
-Part of speech label and morphological features
-Total frequency count for the lemma
-Total frequency count for each wordform associated with the lemma
+-Part of speech label and morphological features
+
+-Total frequency count for the lemma
+
+-Total frequency count for each wordform associated with the lemma
 
 2. Solution Overview:
 The provided code effectively addresses the task requirements as outlined in the task description. It comprises the following steps:
