@@ -11,7 +11,7 @@ Total frequency count for each wordform associated with the lemma
 2. Solution Overview:
 The provided code effectively addresses the task requirements as outlined in the task description. It comprises the following steps:
 
-3.vStep 1: Data Loading and Preprocessing
+3. Step 1: Data Loading and Preprocessing
 
 Import the necessary libraries: json, nltk, string, and pandas.
 Download Kazakh stopwords using NLTK.
